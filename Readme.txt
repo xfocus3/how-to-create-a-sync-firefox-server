@@ -1,4 +1,4 @@
-    #How to create a sync firefox server
+    # How to create a sync firefox server
     
     in this tutorial i will show you how to Create a Firefox Sync Server on your machine.
     
